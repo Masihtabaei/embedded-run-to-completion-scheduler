@@ -1,30 +1,0 @@
-Dependencies for Project 'STM32G474', Target 'EBsy_Px': (DO NOT MODIFY !)
-CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
-F (.\main.c)(0x6577BB89)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\System -I .\CMSIS-IC:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include-D__UVISION_VERSION="537" -DSTM32G474xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (C:\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E9122)
-I (.\System\stm32g474xx.h)(0x6573B7CB)
-I (.\CMSIS\core_cm4.h)(0x6573B7CA)
-I (.\CMSIS\cmsis_version.h)(0x6573B7CA)
-I (.\CMSIS\cmsis_compiler.h)(0x6573B7CA)
-I (.\CMSIS\cmsis_armcc.h)(0x6573B7CA)
-I (.\CMSIS\mpu_armv7.h)(0x6573B7CA)
-I (C:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include\system_stm32g4xx.h)(0x603C7620)
-I (delay.h)(0x6577886F)
-I (main.h)(0x6577BBA4)
-F (.\delay.s)(0x6573B7C9)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -IC:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include--pd "__UVISION_VERSION SETA 537" --pd "STM32G474xx SETA 1"--list .\listings\delay.lst --xref -o .\objects\delay.o --depend .\objects\delay.d)
-F (.\delay.h)(0x6577886F)()
-F (.\main.h)(0x6577BBA4)()
-F (.\System\startup_stm32g431xx.s)(0x6573B7CB)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -IC:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include--pd "__UVISION_VERSION SETA 537" --pd "STM32G474xx SETA 1"--list .\listings\startup_stm32g431xx.lst --xref -o .\objects\startup_stm32g431xx.o --depend .\objects\startup_stm32g431xx.d)
-F (.\System\stm32g4xx.h)(0x6573B7CB)()
-F (.\System\STM32G4xx_REG_ASM.inc)(0x6573B7CC)()
-F (.\System\stm32g474xx.h)(0x6573B7CB)()
-F (.\System\system_stm32g4xx.c)(0x6573B7CC)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\System -I .\CMSIS-IC:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include-D__UVISION_VERSION="537" -DSTM32G474xx-o .\objects\system_stm32g4xx.o --omf_browse .\objects\system_stm32g4xx.crf --depend .\objects\system_stm32g4xx.d)
-I (System\stm32g4xx.h)(0x6573B7CB)
-I (System\stm32g474xx.h)(0x6573B7CB)
-I (.\CMSIS\core_cm4.h)(0x6573B7CA)
-I (C:\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E9122)
-I (.\CMSIS\cmsis_version.h)(0x6573B7CA)
-I (.\CMSIS\cmsis_compiler.h)(0x6573B7CA)
-I (.\CMSIS\cmsis_armcc.h)(0x6573B7CA)
-I (.\CMSIS\mpu_armv7.h)(0x6573B7CA)
-I (C:\Users\masih\AppData\Local\Arm\Packs\Keil\STM32G4xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G4xx\Include\system_stm32g4xx.h)(0x603C7620)
