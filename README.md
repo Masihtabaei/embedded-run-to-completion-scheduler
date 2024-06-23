@@ -13,7 +13,8 @@
 
 ## General Information
 
-Here you will find a run-to-completion scheduler that I implemented as part of the course "Embedded Operating Systems" at the university.
+Here you will find a run-to-completion scheduler that I implemented as part of the course "Embedded Operating Systems" at the university. I called it **coburs**. **coburs** is a partial blend (**Coburg** \[name of a small city located in Bavaria in Southern Germany\] + **Run-to-Completion Scheduler** )
+Feel free to extend/adjust this project so that it meets your goals.
 
 A simple API was developed for process management, which offers the following methods:
 1. create (to create new processes)
@@ -24,8 +25,7 @@ and documented. You will find the documentation under `documentation/html` (this
 This project was implemented and tested for an Arm-based processor (Arm Cortex M4). A concurrent chaser light application (with 8 LEDs) was used for illustration and demonstration.
 8 processes take care of 8 leds avaialble. There are several modes of operation which you see in the video below.
 
-I called it **coburs**. **coburs** is a partial blend (**Coburg** \[name of a small city located in Bavaria in Southern Germany\] + **Run-to-Completion Scheduler** )
-Feel free to extend/adjust this project so that it meets your goals.
+
 
 ## Video
 
