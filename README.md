@@ -1,4 +1,4 @@
-# coburs - Embedded Run-to-Completion Scheduler
+# coburs - A Minimal Embedded Run-to-Completion Scheduler
 
 ## Technologies Used
 
